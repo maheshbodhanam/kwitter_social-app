@@ -1,0 +1,46 @@
+*:root {
+  background: #e1e1e1;
+}
+
+#latesttitles {
+  text-align: center;
+}
+
+.centerdiv {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.postformedit {
+  min-width: 300px;
+  width: 550px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.navbar {
+  background-color: lightgrey;
+  padding: 2%;
+}
+ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  padding-left: 75%;
+  margin-top: -50px;
+  padding-bottom: 20px;
+}
+h4 {
+  text-align: center;
+  background-color: lightgrey;
+  height: 50px;
+  width: 82%;
+  margin-left: 10%;
+}
+h2 {
+  text-align: center;
+  padding: 50px;
+}
